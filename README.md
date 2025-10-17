@@ -32,32 +32,21 @@ Product Manager | *2019 - 2020*
 
 ## Skills
 
-**Product Strategy & Execution**
-- Continuous Discovery
-- Jobs-to-be-Done
-- Product-Led Growth
-- OKRs
-- Outcome-Driven Roadmaps
-- Stakeholder Management
-- Agile/Dual-Track Development
-
 **AI & Platform Product**
 - AI Product Design
 - ML/AI Product Development
 - Developer Tooling
-- API/Platform Product Management
 - Developer Experience
 - Agentic Systems
 
 **Technical Capabilities**
 - SQL
-- Data Architecture
-- System Integration
-- Cross-functional Technical Collaboration
+- API Design
+- System Integrations
 
 **Domain Experience**
 - Enterprise SaaS
-- B2B Infrastructure
+- B2B/B2C/B2B2C Infrastructure
 - Regulated Industries
 - Consumer Products
 
