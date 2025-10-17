@@ -1,6 +1,6 @@
 # Steve Goodrich
 
-**Product Leader | Building Enterprise Platforms**
+**Product Leader | Enterprise Platforms | Developer Tools | AI Systems**
 
 NYC | [LinkedIn](https://linkedin.com/in/steve-goodrich) | hello@stevelgoodrich.com
 
