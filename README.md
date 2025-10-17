@@ -10,7 +10,7 @@ NYC | [LinkedIn](https://linkedin.com/in/steve-goodrich) | hello@stevelgoodrich.
 
 Senior Product Manager passionate about building platforms that scale. I work at the intersection of product strategy, AI/ML systems, and API-driven architectures—solving complex problems through continuous discovery and data-driven decision making.
 
-I've built enterprise platforms, developer tools, and consumer products across B2B, B2C, and B2B2C. My background spans regulated industries and startup environments. Currently at HHS building an enterprise case management platform. Previously: ML-powered systems at Judi Health, scaling infrastructure at Truepill, consumer products at GoodRx.
+I've built enterprise platforms, developer tools, and consumer products across B2B, B2C, and B2B2C spanning highly regulated industries and startup environments from seed to Series D. Currently at HHS building an enterprise case management platform. Previously: ML-powered systems at Judi Health, scaling infrastructure at Truepill, consumer products at GoodRx.
 
 ---
 
