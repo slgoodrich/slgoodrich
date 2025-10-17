@@ -32,20 +32,20 @@ Product Manager | *2019 - 2020*
 
 ## Skills
 
-**Product Strategy & Execution**
+**Product Strategy & Execution**  
 Continuous Discovery • Jobs-to-be-Done • Product-Led Growth • OKRs • Outcome-Driven Roadmaps • Stakeholder Management • Agile/Dual-Track Development
 
-**Technical & Platform**
+**Technical & Platform**  
 API/Platform Product Management • ML/AI Product Development • Data Architecture • SQL • System Integration • Developer Experience
 
-**Domain Experience**
+**Domain Experience**  
 Enterprise SaaS • B2B Infrastructure • Regulated Industries • Consumer Products
 
 ---
 
 ## Recent Projects
 
-**[Daily Spiral](https://dailyspiral.app)** — Privacy-first journaling for iPhone
+**[Daily Spiral](https://dailyspiral.app)** — Privacy-first journaling for iPhone  
 Built a minimalist reflection app applying product-led growth principles: frictionless onboarding (no accounts), value-first experience (free core features), and privacy as a feature (on-device storage). Shipped with 11 tone packs for personalized journaling experiences.
 
 ---
