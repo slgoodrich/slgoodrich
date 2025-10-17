@@ -60,10 +60,10 @@ Comprehensive PM plugin with 18 specialized AI agents, 45 command tools, and 25 
 **[Product Management Commands](https://github.com/slgoodrich/commands)** — Multi-agent workflow orchestration
 18 end-to-end PM workflows (1 week to 12 months) and 12 focused analysis tools. Leverages multi-agent orchestration for complex processes like quarterly planning, product launches, and discovery sprints.
 
-**ShiftWise** — Native iOS/SwiftUI
+**ShiftWise** — Native iOS/SwiftUI  
 Gradual sleep adjustment for Daylight Saving Time transitions.
 
-**[Daily Spiral](https://dailyspiral.app)** — Native iOS/SwiftUI
+**[Daily Spiral](https://dailyspiral.app)** — Native iOS/SwiftUI  
 Daily reflection app for building consistent journaling habits.
 
 ---
