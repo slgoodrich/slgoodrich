@@ -16,16 +16,16 @@ I focus on enterprise platforms, B2B infrastructure, and product-led experiences
 
 ## Professional Experience
 
-**U.S. Department of Health & Human Services**
+**U.S. Department of Health & Human Services**  
 Senior Product Manager | *2024 - Present*
 
-**Judi Health** (formerly CapitalRx)
+**Judi Health** (formerly CapitalRx)  
 Product Manager | *2024*
 
-**Truepill**
+**Truepill**  
 Product Manager | *2020 - 2023*
 
-**GoodRx**
+**GoodRx**  
 Product Manager | *2019 - 2020*
 
 ---
