@@ -10,7 +10,7 @@ NYC | [LinkedIn](https://linkedin.com/in/steve-goodrich) | hello@stevelgoodrich.
 
 Senior Product Manager passionate about building platforms that scale. I work at the intersection of product strategy, AI/ML systems, and API-driven architectures—solving complex problems through continuous discovery and data-driven decision making.
 
-I focus on enterprise platforms, B2B infrastructure, and product-led experiences. My background spans regulated industries, developer tools, and consumer products. Currently at HHS building enterprise platforms. Previously: ML-powered systems at Judi Health, scaling infrastructure at Truepill, consumer products at GoodRx.
+I focus on enterprise platforms, B2B infrastructure, and product-led experiences. My background spans regulated industries, developer tools, and consumer products. Currently at HHS building an enterprise case management platform. Previously: ML-powered systems at Judi Health, scaling infrastructure at Truepill, consumer products at GoodRx.
 
 ---
 
@@ -45,7 +45,13 @@ Enterprise SaaS • B2B Infrastructure • Regulated Industries • Consumer Pro
 
 ## Recent Projects
 
-**[Daily Spiral](https://dailyspiral.app)** — Privacy-first journaling for iPhone  
+**[Product Management Toolkit](https://github.com/slgoodrich/agents)** — Claude Code plugin suite
+Comprehensive PM plugin with 18 specialized AI agents, 45 command tools, and 25 knowledge skills covering strategy, discovery, delivery, and growth. Built on modern PM methodologies from Teresa Torres, Marty Cagan, and April Dunford.
+
+**[Product Management Commands](https://github.com/slgoodrich/commands)** — Multi-agent workflow orchestration
+18 end-to-end PM workflows (1 week to 12 months) and 12 focused analysis tools. Leverages multi-agent orchestration for complex processes like quarterly planning, product launches, and discovery sprints.
+
+**[Daily Spiral](https://dailyspiral.app)** — Privacy-first journaling for iPhone
 Built a minimalist reflection app applying product-led growth principles: frictionless onboarding (no accounts), value-first experience (free core features), and privacy as a feature (on-device storage). Shipped with 11 tone packs for personalized journaling experiences.
 
 ---
