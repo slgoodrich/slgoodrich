@@ -32,9 +32,9 @@ Product Manager | *2019 - 2020*
 
 ## Recent Projects
 
-**[Claude Code Agents](https://github.com/slgoodrich/agents)** — Claude Code plugin suite with 18 specialized AI agents, 45 command tools, and 25 knowledge skills covering strategy, discovery, delivery, and growth. Built on modern PM methodologies from Teresa Torres, Marty Cagan, April Dunford, and others. 
+**[Product Management Toolkit (Claude Code Agents)](https://github.com/slgoodrich/agents)** — Claude Code plugin suite with 18 specialized AI agents, 45 command tools, and 25 knowledge skills covering strategy, discovery, delivery, and growth. Built on modern PM methodologies from Teresa Torres, Marty Cagan, April Dunford, and others. 
 
-**[Claude Code Slash Commands](https://github.com/slgoodrich/commands)** — Multi-agent workflow orchestration
+**[Product Management Workflows (Claude Code Slash Commands)](https://github.com/slgoodrich/commands)** — Multi-agent workflow orchestration
 18 end-to-end PM workflows (1 week to 12 months) and 12 focused analysis tools. Leverages multi-agent orchestration for complex processes like quarterly planning, product launches, and discovery sprints.
 
 **ShiftWise** — Native iOS/SwiftUI  
