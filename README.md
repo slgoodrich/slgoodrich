@@ -30,28 +30,6 @@ Product Manager | *2019 - 2020*
 
 ---
 
-## Skills
-
-**AI & Platform Product**
-- AI Product Design
-- ML/AI Product Development
-- Developer Tooling
-- Developer Experience
-- Agentic Systems
-
-**Technical Capabilities**
-- SQL
-- API Design
-- System Integrations
-
-**Domain Experience**
-- Enterprise SaaS
-- B2B/B2C/B2B2C Infrastructure
-- Regulated Industries
-- Consumer Products
-
----
-
 ## Recent Projects
 
 **[Claude Code Agents](https://github.com/slgoodrich/agents)** — Claude Code plugin suite with 18 specialized AI agents, 45 command tools, and 25 knowledge skills covering strategy, discovery, delivery, and growth. Built on modern PM methodologies from Teresa Torres, Marty Cagan, April Dunford, and others. 
