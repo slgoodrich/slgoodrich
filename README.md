@@ -34,7 +34,7 @@ Product Manager | *2019 - 2020*
 
 ## Recent Projects
 
-**[Product Management Toolkit (Claude Code Agents)](https://github.com/slgoodrich/agents)** — Claude Code plugin suite with 18 specialized AI agents, 34 slash commands, 30 tools & workflows, and 25 knowledge skills covering strategy, discovery, growth, and execution. Built on modern PM methodologies from Marty Cagan, Teresa Torres, April Dunford, and more. 
+**[Product Management Toolkit (Claude Code Plugins)](https://github.com/slgoodrich/agents)** — Claude Code plugin suite with 18 specialized AI agents, 34 slash commands, 30 tools & workflows, and 25 knowledge skills covering strategy, discovery, growth, and execution. Built on modern PM methodologies from Marty Cagan, Teresa Torres, April Dunford, and more. 
 
 **ShiftWise** — Native iOS/SwiftUI  
 Gradual sleep adjustment for Daylight Saving Time transitions.
