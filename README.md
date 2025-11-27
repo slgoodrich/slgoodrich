@@ -4,7 +4,7 @@
 
 Senior Product Manager building platforms in complex environments where "move fast and break things" gets you sued or people die.  
 
-Currently untangling legacy enterprise systems at HHS. Previously: ML-powered formulary systems at Judi Health, scaling pricing infrastructure at Truepill, consumer products at GoodRx.  
+Currently untangling legacy enterprise systems at HHS. 
 
 ---
 
