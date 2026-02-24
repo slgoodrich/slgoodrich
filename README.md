@@ -28,7 +28,7 @@ Product Manager | *2019 - 2020*
 
 **[AI PM Copilot](https://github.com/slgoodrich/agents)** — Agent-first Claude Code plugin for solo developers and small teams. Conversational PM agents handle strategy, research, prioritization, and execution. Built on modern methodologies from Marty Cagan, Teresa Torres, April Dunford, Sean Ellis, and more. 
 
-**ShiftWise** — Native iOS/SwiftUI  
+**[ShiftWise](https://shiftwiseapp.io/)** — Native iOS/SwiftUI  
 Gradual sleep adjustment for Daylight Saving Time transitions.
 
 **[Daily Spiral](https://dailyspiral.app)** — Native iOS/SwiftUI  
